@@ -1,3 +1,10 @@
 # Names
 
-1. The problem-solving process in section 1.6, the Programming Process is there to help new students or even those that have studied a completely different subject and just wants to enhance their knowledge learn more about coding when they have no clue where they can begin. The first step in the process is to tell the program exactly what it needs to do. The program works like an employee who is brand new at a job and need the guidance of their trainer to get them off their feet. The second step is to visualize what the program would look like. The program would not work effectively if you don’t know what the program will look like when it’s in front of a user. The third step in the design process is to create a chart. The chart is guiding the program on what steps to display first when a user does a certain task. The fourth step is to check for errors. Just like in anything in life, human errors will occur at some point of time in life so you need to always check to make sure all edges are covered so that your program will work effectively. After writing up the code, the last few steps are to input the code into the program and run the program yourself. The designer would need to run the program so that he can check for errors before putting the results out in the open for everyone to see. The success of the software created will be much greater if tests are run several times for new codes created rather than not at all.
+This repository contains a project focused on working with strings and manipulating names in programming, including formatting and validation exercises.
+
+### Features:
+- String manipulation examples.
+- Formatting and validating names in programming.
+
+This project helps users practice string handling in various programming languages.
+
